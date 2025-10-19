@@ -6,7 +6,7 @@
 CS student
 ----------
 
-Im a second year cs student interested in software development. I also like making music :D
+Im a third year cs student interested in software development. I also like making music :D
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [souhail.akermi03@gmail.com](mailto:souhail.akermi03@gmail.com)
