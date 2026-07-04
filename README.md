@@ -9,7 +9,7 @@ CS student
 Im a third year cs student interested in software development. I also like making music :D
 
 * 🌍  I'm based in Tunisia
-* ✉️  You can contact me at [souhail200ak@gmail.com](mailto:souhail200ak@gmail.com)
+* ✉️  You can contact me at [souhail.akermi03@gmail.com](mailto:souhail.akermi03@gmail.com)
 * 👤  My portfolio : <a href="https://souhail-akermi.netlify.app/"> https://souhail-akermi.netlify.app/</a>
 
 ### Skills
