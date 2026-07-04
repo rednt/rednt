@@ -3,10 +3,8 @@
 
 ![Cat](https://tenor.com/view/hi-otag-cat-gif-496667468136015874.gif)
 
-CS student
-----------
 
-Im a third year cs student interested in software development. I also like making music :D
+I'm a Business Information Systems graduate. I also like making music :D
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [souhail.akermi03@gmail.com](mailto:souhail.akermi03@gmail.com)
